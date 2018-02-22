@@ -32,7 +32,7 @@ app.use(morgan('combined'));
             },
             'article_three':{
                 title:'article three',
-                heading:'CONTACT US',
+                heading:'CONTACT US:-',
                
                 content:`<p>
                        <h1> Infodesk </h1><hr />
@@ -77,7 +77,7 @@ Infodesk@bigdealfinance.com
                   ${heading}
                 </h1>
                 </div>
-                <hr />
+               
                 <div>
                     
                 </div>
