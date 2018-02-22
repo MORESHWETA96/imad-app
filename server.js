@@ -73,9 +73,9 @@ Infodesk@bigdealfinance.com
                 </div>
                 <hr/>
                 <div>
-                <h3>
+                <h1>
                   ${heading}
-                </h3>
+                </h1>
                 </div>
                 <hr />
                 <div>
