@@ -32,7 +32,7 @@ app.use(morgan('combined'));
             },
             'article_three':{
                 title:'article three',
-                heading:'ARTICLE THREE',
+                heading:'CONTACT US',
                 date:'Feb 20,2017',
                 content:`<p>
                         This is the actual content for article three.I will make changes in this field later.
