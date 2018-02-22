@@ -36,11 +36,11 @@ app.use(morgan('combined'));
                 date:'Feb 20,2017',
                 content:`<p>
                        <h3> Infodesk </h3>
-                        <br>
-Toll Free (India) : 1800 2094545
+    <hr />
+Toll Free (India) : 1800 2094545<br>
 Available from: 8 am to 8 pm IST
 <br>
-International : +91 22 6177 4200
+International : +91 22 6177 4200 <br>
 Available from: 2.30 am to 2.30 pm GMT
 <br>
 Send us a mail:
