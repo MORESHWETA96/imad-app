@@ -61,9 +61,12 @@ app.use(morgan('combined'));
                     <a href="/"> HOME </a>
                 </div>
                 <hr/>
+                <div>
                 <h3>
                   ${heading}
                 </h3>
+                </div>
+                <hr />
                 <div>
                     ${date}
                 </div>
