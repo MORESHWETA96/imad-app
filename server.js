@@ -35,7 +35,7 @@ app.use(morgan('combined'));
                 heading:'CONTACT US:-',
                
                 content:`<p>
-                       <h1> Infodesk </h1><hr />
+                       <h1> Infodesk:-</h1>
 Toll Free (India) : 1800 2094545<br>
 Available from: 8 am to 8 pm IST
 <br><br>
