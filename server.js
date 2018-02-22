@@ -35,7 +35,19 @@ app.use(morgan('combined'));
                 heading:'CONTACT US',
                 date:'Feb 20,2017',
                 content:`<p>
-                        This is the actual content for article three.I will make changes in this field later.
+                       <h3> Infodesk </h3>
+                        <br>
+Toll Free (India) : 1800 2094545
+Available from: 8 am to 8 pm IST
+<br>
+International : +91 22 6177 4200
+Available from: 2.30 am to 2.30 pm GMT
+<br>
+Send us a mail:
+<br>
+Infodesk@bigdealfinance.com
+<br>
+
                         </p>`
             }
             };
