@@ -39,10 +39,10 @@ app.use(morgan('combined'));
     <hr />
 Toll Free (India) : 1800 2094545<br>
 Available from: 8 am to 8 pm IST
-<br>
+<br><br>
 International : +91 22 6177 4200 <br>
 Available from: 2.30 am to 2.30 pm GMT
-<br>
+<br><br>
 Send us a mail:
 <br>
 Infodesk@bigdealfinance.com
