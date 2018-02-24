@@ -72,16 +72,16 @@ Infodesk@bigdealfinance.com
                     <a href="/"> HOME </a>
                 </div>
                 <hr/>
-                <div>
+                <div class = 'heading'>
                 <h1>
                   ${heading}
                 </h1>
                 </div>
                
-                <div>
+                <div class = 'date'>
                     
                 </div>
-                <div>
+                <div class ='content'>
                     ${content}
                 </div> 
               </div>
